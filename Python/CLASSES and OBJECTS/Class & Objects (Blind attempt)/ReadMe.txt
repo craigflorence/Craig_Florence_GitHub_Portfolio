@@ -1,0 +1,1 @@
+This directory is an attempt to re-create the quiz from CLASSES and OBJECTS directory without following step-by-step.
